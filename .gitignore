@@ -1,0 +1,14 @@
+__pycache__
+*.pyc
+*.pyo
+
+venv
+logs
+*.log
+
+*.swp
+*.swo
+*.swn
+
+*.csv
+*.json
