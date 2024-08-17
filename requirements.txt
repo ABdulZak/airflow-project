@@ -3,3 +3,4 @@ pandas
 apache-airflow
 apache-airflow[sentry]
 apache-airflow-providers-celery
+python-telegram-bot
